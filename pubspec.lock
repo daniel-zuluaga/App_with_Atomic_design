@@ -13,7 +13,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "8a6bc58ff999d0537ad32679662c326d4af0ad8d"
+      resolved-ref: "4cd12cfc7fec16bb8edf733d109d1403e42c26c4"
       url: "https://github.com/daniel-zuluaga/atomic_design.git"
     source: git
     version: "0.0.1"
